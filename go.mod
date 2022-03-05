@@ -1,4 +1,4 @@
-module archiver
+module github.com/haolipeng/archiver
 
 go 1.17
 
