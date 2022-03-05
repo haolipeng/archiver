@@ -1,4 +1,4 @@
-package common
+package archiver
 
 import (
 	"archive/tar"
